@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Royal institutions being proposals for articles to establish and confirm laws, liberties, &amp; customs of silver &amp; gold mines, to all the king's subjects, in such parts of Africa and America, which are now (or shall be) annexed to, and dependant on the crown of England : with rules, laws and methods of mining and getting precious stones, the working and making of salt-petre, and also, the digging and getting of lead, tin, copper, and quick-silver oars [sic] ... / by Thomas Houghton ...</title>
+            <title>Royal institutions</title>
+            <author>Houghton, Thomas, Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 70 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44605</idno>
+            <idno type="STC">Wing H2935</idno>
+            <idno type="STC">ESTC R8964</idno>
+            <idno type="EEBO-CITATION">12196375</idno>
+            <idno type="OCLC">ocm 12196375</idno>
+            <idno type="VID">56004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 107:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Royal institutions being proposals for articles to establish and confirm laws, liberties, &amp; customs of silver &amp; gold mines, to all the king's subjects, in such parts of Africa and America, which are now (or shall be) annexed to, and dependant on the crown of England : with rules, laws and methods of mining and getting precious stones, the working and making of salt-petre, and also, the digging and getting of lead, tin, copper, and quick-silver oars [sic] ... / by Thomas Houghton ...</title>
+                  <title>Royal institutions</title>
+                  <author>Houghton, Thomas, Gent.</author>
+               </titleStmt>
+               <extent>[12], 126 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A later exact reprint was printed under title: The golden treasury, or, The compleat minor. 1699.</note>
+                  <note>"Licensed, Daniel Poplar"</note>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mining law, Colonial.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56004:1"/>
+            <pb facs="tcp:56004:1"/>
+            <p>Royal Inſtitutions:</p>
+            <p>Being Propoſals for ARTICLES To Eſtabliſh and Confirm <hi>Laws, Liberties, &amp; Cuſtoms</hi> OF Silver &amp; Gold <hi>Mines,</hi> TO ALL The KING's Subjects, in ſuch Parts of <hi>AFRICA,</hi> and <hi>AMERICA,</hi> which are Now (or Shall be) Annexed to, and Dependant on the CROWN of <hi>England.</hi>
+            </p>
+            <p>With <hi>Rules, Laws,</hi> and <hi>Methods</hi> of Mi<g ref="char:EOLhyphen"/>ning, and Getting of <hi>Precious Stones;</hi> The Working and Making of <hi>Salt-Petre;</hi> And alſo, The Digging and Getting of <hi>Lead, Tin, Copper,</hi> and <hi>Quick-Silver <hi>Oars,</hi>
+               </hi> in Any or Either of thoſe Countries; Whereby <hi>Navigation,</hi> and <hi>Trade,</hi> with the Subjects Intereſt and Riches, together with the CROWN's Revenues, would be greatly Encreaſed, in a little Time.</p>
+            <p>
+               <hi>Moſt Humbly Offered to the Conſideration of the</hi> King's moſt Excellent Majeſty, <hi>&amp; this Preſent</hi> Parliament.</p>
+            <p>By <hi>Thomas Houghton,</hi> of Lime Street.</p>
+            <p>Licenſed, DANIEL POPLAR.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1694.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:56004:2"/>
+            <pb facs="tcp:56004:2"/>
+            <head>TO THE KING's MOST Excellent Majeſty; Together, with the Preſent PARLIAMENT Aſſembled this Thirtenth Day of <hi>February,</hi> 1693/4.</head>
+            <opener>
+               <salute>Great Caeſar, and Senators.</salute>
+            </opener>
+            <p>
+               <hi>In all Humility, moſt Humbly I inform You</hi>
+            </p>
+            <p>THere is nothing more Certain and True, Than that there are ma<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:56004:3"/>extraordinary <hi>Rich Veyns, Mines,</hi> and <hi>Mi<g ref="char:EOLhyphen"/>neral Countries,</hi> in ſome Parts of <hi>America,</hi> which are now Annexed to and Dependant on the <hi>CROWN</hi> of <hi>England;</hi> (the Experience and Truth of which, nothing but want of Skill in <hi>Mineral Af<g ref="char:EOLhyphen"/>fairs,</hi> and Incredulity, can or will deny); which <hi>Veyns</hi> and <hi>Mines,</hi> if they was Sought for, and
+<pb facs="tcp:56004:3"/>Set to Work, by any that underſtands them, would undoubtedly, in a little Time, prove as <hi>Rich</hi> as any the <hi>Spaniards</hi> have in <hi>Peru,</hi> or on the <hi>North</hi> Side of the <hi>Aequinox,</hi> in <hi>New-Spain;</hi> and, in a few Years, would pro<g ref="char:EOLhyphen"/>duce and raiſe great Quantities of <hi>Silver, Gold, Copper,</hi> and o<g ref="char:EOLhyphen"/>ther Valuable Things, to the great Content and Sa<g ref="char:EOLhyphen"/>tiſfaction
+<pb facs="tcp:56004:4"/>of the <hi>Engliſh;</hi> provided there was any Regular <hi>LAWS, RULES,</hi> and <hi>METHODS</hi> Settled, for Working, and Carry<g ref="char:EOLhyphen"/>ing on the ſaid <hi>Mines;</hi> by which <hi>LAWS,</hi> the <hi>En<g ref="char:EOLhyphen"/>terpriſers,</hi> or <hi>Under<g ref="char:EOLhyphen"/>takers</hi> thereof, might Enjoy and Secure their Rights, Intereſts, and Properties therein, to Them, their Heirs, and Aſſigns, after they have
+<pb facs="tcp:56004:4"/>been at the Coſt and Char<g ref="char:EOLhyphen"/>ges of Finding and Diſ<g ref="char:EOLhyphen"/>covering the ſaid <hi>Mines.</hi> But, as the Royalties there<g ref="char:EOLhyphen"/>of ſtand, at preſent, (in their reſpective and ſepa<g ref="char:EOLhyphen"/>rate Grants from the <hi>CROWN</hi>) to a few <hi>PRO<g ref="char:EOLhyphen"/>PRIETORS,</hi> who <hi>formerly</hi> hath not, at <hi>preſent</hi> doth not, nor <hi>hereafter,</hi> in all Probability, will not uſe any effectual Ways and Means to Work an Diſ<g ref="char:EOLhyphen"/>cover
+<pb facs="tcp:56004:5"/>the ſame; whereby this excellent <hi>Underta<g ref="char:EOLhyphen"/>king</hi> hath hitherto been Neglected and Slighted, and is yet rendred Impra<g ref="char:EOLhyphen"/>cticable to all <hi>Engliſh-Men;</hi> and ſo will remain to <hi>Poſterity;</hi> by which) many <hi>Rich Veyns</hi> and <hi>Mines</hi> have <hi>been, are,</hi> &amp; <hi>will be</hi> of no Benefit; but continue Void, and utterly Loſt, unleſs ſome further Care be taken, than yet
+<pb facs="tcp:56004:5"/>hath been, for Settling and Methodizing the ſame: The evil Circumſtances of which; hath <hi>been, is,</hi> and <hi>will be,</hi> if not remedied, an unvaluable Loſs to the <hi>Engliſh</hi> Nation, in Ne<g ref="char:EOLhyphen"/>glecting to give all due Encouragement to improve this Honourable <hi>Enter<g ref="char:EOLhyphen"/>prize;</hi> which would greatly encreaſe the Revenues of the <hi>CROWN,</hi> and advance the <hi>Engliſh</hi> Nation's In<g ref="char:EOLhyphen"/>tereſt,
+<pb facs="tcp:56004:6"/>to an unſpeakable Degree, in a little Time. Therefore, that the <hi>King's moſt excellent Maje<g ref="char:EOLhyphen"/>ſty,</hi> in his Princely Wiſ<g ref="char:EOLhyphen"/>dom, together with this Preſent <hi>Parliament,</hi> would be Graciouſly Plea<g ref="char:EOLhyphen"/>ſed to take it into Conſide<g ref="char:EOLhyphen"/>ration, and amend this Miſchief, by making the following <hi>ARTICLES,</hi> (or ſome ſuch other, as the Government ſhall approve
+<pb facs="tcp:56004:6"/>off) for Standing <hi>LAWS,</hi> and <hi>CUSTOMS,</hi> to be Ob<g ref="char:EOLhyphen"/>ſerved and Practiſed by all the <hi>KING's</hi> Subjects in <hi>America;</hi> whereby the <hi>Enterprize</hi> would become National to the <hi>Engliſh</hi> Poſterity, and every Free-Born Subject have Liberty to Seek, Find, and Enjoy the Fruit of his Labours; Paying to the <hi>CROWN,</hi> the <hi>Duties</hi> and <hi>Reſer<g ref="char:EOLhyphen"/>vations</hi> here-after men<g ref="char:EOLhyphen"/>tioned,
+<pb facs="tcp:56004:7"/>Is the ſole Deſire, and earneſt Requeſt of.</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt Humble, Moſt Dutiful, and moſt Obedient Petitioner,</hi> Thom. Houghton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb n="1" facs="tcp:56004:7"/>
+            <head>ROYAL <hi>Inſtitutions.</hi>
+            </head>
+            <div n="1" type="article">
+               <head>Article I.</head>
+               <p>THAT it is the Right and Pre<g ref="char:EOLhyphen"/>rogative of the CROWN, to Elect and Chooſe an Offi<g ref="char:EOLhyphen"/>cer, and Officers, for
+<pb n="2" facs="tcp:56004:8"/>the Management of the <hi>Royal Treaſures,</hi> when and where Oc<g ref="char:EOLhyphen"/>caſion doth or ſhall re<g ref="char:EOLhyphen"/>quire, to take the Care and Charge of the KING's Part, in all <hi>Royal Mines;</hi> and alſo, in all Mines of <hi>Baſe Metal,</hi> where the Roy<g ref="char:EOLhyphen"/>alties yet remain an<g ref="char:EOLhyphen"/>nexed to the Crown; Which Officer, and Officers, ſhall be <hi>Sworn</hi>
+                  <pb n="3" facs="tcp:56004:8"/>to do Right and Ju<g ref="char:EOLhyphen"/>ſtice, as much as in Him or Them lieth, (according to the beſt of his or their Skill and Knowledge) be<g ref="char:EOLhyphen"/>tween his Soveraign Majeſty the KING, and the <hi>Miner, Main<g ref="char:EOLhyphen"/>tainer,</hi> or <hi>Venturer;</hi> and alſo, between <hi>Miner</hi> and <hi>Miner,</hi> and <hi>Miner</hi> and <hi>Maintainer</hi> of ſuch Mines; and ſhall ei<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:56004:9"/>Himſelf, or by his or their Lawful Deputy or Deputies, duly Execute, and faithfully put in Pra<g ref="char:EOLhyphen"/>ctice, amongſt the <hi>Mi<g ref="char:EOLhyphen"/>ners</hi> and <hi>Adventurers,</hi> and all other of the KING's Subjects, theſe ARTICLES, as Rules, Laws, and Cuſtoms, fit to be kept and obſerved, in all Parts of <hi>Africa, A<g ref="char:EOLhyphen"/>merica,</hi>
+                  <pb n="5" facs="tcp:56004:9"/>or the <hi>Weſt-In<g ref="char:EOLhyphen"/>dia Iſlands,</hi> where any <hi>Silver</hi> or <hi>Gold Mines,</hi> or any other <hi>Mines</hi> of <hi>Tin, Lead, Copper, Quick-Silver, Precious Stones,</hi> and <hi>Salt-Petre,</hi> ſhall be Found, Dug, Made, and Diſcovered here<g ref="char:EOLhyphen"/>after; which Officer ſhall be called the <hi>Bar-Maſter;</hi> and ſhall re<g ref="char:EOLhyphen"/>main Overſeer and Superviſer of the <hi>Roy<g ref="char:EOLhyphen"/>al
+<pb n="6" facs="tcp:56004:10"/>Mines,</hi> and other Mines of <hi>Baſe Metal,</hi> for the KING's Part, during his Majeſty's Pleaſure.</p>
+            </div>
+            <div n="2" type="article">
+               <head>Article II.</head>
+               <p>THAT all or any of the <hi>KING</hi>'s Subjects, of what De<g ref="char:EOLhyphen"/>gree, Quality, or E<g ref="char:EOLhyphen"/>ſtate
+<pb n="7" facs="tcp:56004:10"/>ſoever they be, ſhall have full Power, &amp; free Liberty to Dig, Delve, Work, Mine and Break up Ground in any of the Coun<g ref="char:EOLhyphen"/>tries afore-ſaid, to ſeek for <hi>Silver, Gold, Lead, Tin, Copper, Quick-Silver, Precious Stones,</hi> and <hi>Salt-Petre,</hi> in any Part or Place whatſo<g ref="char:EOLhyphen"/>ever, Houſes, Or<g ref="char:EOLhyphen"/>chards, Gardens, and
+<pb n="8" facs="tcp:56004:11"/>Encloſures of Sugar-works excepted, upon the Terms and Condi<g ref="char:EOLhyphen"/>tions following: That is to ſay, He or they who findeth them, or any of them, ſhall pay to the <hi>KING</hi>'s Offi<g ref="char:EOLhyphen"/>cer, for the Uſe of the <hi>KING,</hi> in Oars ready dreſt, and clean<g ref="char:EOLhyphen"/>ſed from the Earth, Stone, and Rubbiſh, made fit for Smelting,
+<pb n="9" facs="tcp:56004:11"/>Melting, and Refi<g ref="char:EOLhyphen"/>ning; Of all <hi>Gold</hi> and <hi>Silver Oars,</hi> one Sixth Part; And of all <hi>Lead, Tin, Copper, Quick-Sil<g ref="char:EOLhyphen"/>ver-Oars,</hi> and <hi>Precious Stones,</hi> one Twelfth Part; And of all <hi>Salt-Petre,</hi> every Twelfth Tunn: For Payment of which Sixth and Twelfth Parts, as a<g ref="char:EOLhyphen"/>fore-ſaid, every <hi>Mi<g ref="char:EOLhyphen"/>ner, Maintainer,</hi> or any
+<pb n="10" facs="tcp:56004:12"/>of the <hi>KING</hi>'s Sub<g ref="char:EOLhyphen"/>jects, ſhall have free Liberty to Dig, Work, &amp; Break up Grounds in any of the Coun<g ref="char:EOLhyphen"/>tries afore-ſaid; ex<g ref="char:EOLhyphen"/>cept in ſuch Places, as is before excepted.</p>
+            </div>
+            <div n="3" type="article">
+               <pb n="11" facs="tcp:56004:12"/>
+               <head>Art. III.</head>
+               <p>THAT all Rakes, or Veyns of <hi>Sil<g ref="char:EOLhyphen"/>ver</hi> or <hi>Gold, Lead, Tin, Copper,</hi> and <hi>Quick-Sil<g ref="char:EOLhyphen"/>ver,</hi> and all Pipes and Flat-Works of <hi>Preci<g ref="char:EOLhyphen"/>ous Stones,</hi> or <hi>Salt-Petre,</hi> ſhall, in three Days Time next after they, or any of them are
+<pb n="12" facs="tcp:56004:13"/>found, be poſſeſt with one pair of Stowes or more, by the Owners of firſt Finders there<g ref="char:EOLhyphen"/>of; and Notice ſhall be given, or ſent to the <hi>KING</hi>'s Officer, by Word of Mouth or Writing, concern<g ref="char:EOLhyphen"/>ing the ſame, within three Months Time next after ſuch Veyn or Veyns, Rake or Rakes, Pipe or Pipes,
+<pb n="13" facs="tcp:56004:13"/>Flat-Work or Flat-Works are Found and Diſcovered; and, for want of ſuch Officer, to the Miniſter of the Pariſh, or the next Ma<g ref="char:EOLhyphen"/>giſtrate, or Juſtice of the Peace, or Gover<g ref="char:EOLhyphen"/>nour of the Place, where ſuch Mines are Found, who ſhall im<g ref="char:EOLhyphen"/>mediately go or ſend his Deputy to the ſaid Mine, Rake, Veyn,
+<pb n="14" facs="tcp:56004:14"/>Pipe, or Flat-Work, and ſhall there Mea<g ref="char:EOLhyphen"/>ſure out as many Meers of Ground, as the <hi>Owner</hi> or <hi>Owners</hi> thereof have Stowes ſet in quiet Poſſeſſi<g ref="char:EOLhyphen"/>on; which Meers of Ground he ſhall de<g ref="char:EOLhyphen"/>liver to the firſt <hi>Fin<g ref="char:EOLhyphen"/>der,</hi> or <hi>Owners</hi> there<g ref="char:EOLhyphen"/>of, and ſhall Regiſter that Veyn, Rake, Pipe, or Flat-Work, by
+<pb n="15" facs="tcp:56004:14"/>ſuch Name, as the <hi>Ow<g ref="char:EOLhyphen"/>ners</hi> think fit to give it; the <hi>Miner, Owner,</hi> or <hi>Finder</hi> thereof Paying to the <hi>Bar-Maſter,</hi> or his Deputy, Ten Shil<g ref="char:EOLhyphen"/>lings for every Meer of Ground he or they ſhall ſo Meaſure out and Regiſter; each Meer of Ground con<g ref="char:EOLhyphen"/>taining Twenty Nine Yards of Ground in Length: Upon every
+<pb n="16" facs="tcp:56004:15"/>of which Meer of Ground, a pair of Stowes ſhall ſtand to keep Poſſeſſion, as a<g ref="char:EOLhyphen"/>foreſaid, within which Length of Ground, no Perſon or Perſons ſhall preſume to Work, Dig, or Break u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ground, in Order to get Oar therein, with<g ref="char:EOLhyphen"/>out the Leave and Conſent of the <hi>Owner,</hi> or firſt <hi>Finder</hi> thereof,
+<pb n="17" facs="tcp:56004:15"/>whether <hi>Gold,</hi> or any other Metal whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            </div>
+            <div n="4" type="article">
+               <head>Art. IV.</head>
+               <p>THAT it is, and ſhall be, Lawful for any Perſon to Croſs, Stow, and take Poſſeſſion of either of the Extreams or Ends
+<pb n="18" facs="tcp:56004:16"/>of all Rakes, Veyns, Pipes and Flat-Works ſo found, where the Right and Poſſeſſion of the next <hi>Owner</hi> ex<g ref="char:EOLhyphen"/>pires, either at the Meaſuring out of the firſt Meers of Ground, or before; and he who ſhall firſt break Ground by the Ma<g ref="char:EOLhyphen"/>king of a Croſs or Croſſes, and ſhall Own and Prove himſelf to
+<pb n="19" facs="tcp:56004:16"/>be the firſt Taker at the Finder, or to him or them that Hold<g ref="char:EOLhyphen"/>eth and Enjoyeth the next Poſſeſſion, and ſhall ſet on one pair of Stowes or more, within Three Days Time next after the Making of ſuch Croſs or Croſſes, or break<g ref="char:EOLhyphen"/>ing of Ground, ſhall be Judged and Con<g ref="char:EOLhyphen"/>cluded to have the
+<pb n="20" facs="tcp:56004:17"/>Right. Intereſt, and Poſſeſſion of the next Ten Meers of Ground in the ſame Rake, Veyn, Pipe, or Flat-Work, there-unto adjoyning, at whither End or Side ſoever it is, or ſhall be; pro<g ref="char:EOLhyphen"/>vided he or they ſhall and do ſet on the o<g ref="char:EOLhyphen"/>ther Nine pair of Stowes, within Three Days Time next after
+<pb n="21" facs="tcp:56004:17"/>the Making of ſuch Croſs or Croſſes; and ſhall Pay the <hi>Bar-Ma<g ref="char:EOLhyphen"/>ſter,</hi> or his Deputy, Ten Shillings for Re<g ref="char:EOLhyphen"/>giſtering and Meaſu<g ref="char:EOLhyphen"/>ring out each Meer of Ground; at which Time, Stakes ſhall be driven down, or Marks made to deter<g ref="char:EOLhyphen"/>mine and ſhew the End of the ſame. But if he or they, who have
+<pb n="22" facs="tcp:56004:18"/>made ſuch Croſs or Croſſes, and broken Ground, Neglect or Refuſe to ſet on One Pair of Stowes or more, where ſuch Croſs or Croſſes was made, within Three Days Time next after the Making thereof; that <hi>then</hi> it ſhall be <hi>free</hi> &amp; <hi>lawful</hi> for any other Perſon to Croſs, Take, and Set on Stowes,
+<pb n="23" facs="tcp:56004:18"/>and Poſſeſs thoſe Ten Meers of Ground, and ſhall Hold and Enjoy the ſame to himſelf, or his Aſſigns, giving the <hi>Bar-Maſter,</hi> or his Deputy, Notice there<g ref="char:EOLhyphen"/>of, and Paying for Re<g ref="char:EOLhyphen"/>giſtering and Meaſu<g ref="char:EOLhyphen"/>ring theſe Meers of Ground, as afore-ſaid. And thus every one ſhall be ſerved, ſooner or later, in the ſame
+<pb n="24" facs="tcp:56004:19"/>Rake, Veyn, Pipe, or Flat-Work, whether it be <hi>Silver, Gold, Lead, Tin, Copper, Quick-Sil<g ref="char:EOLhyphen"/>ver, Precious Stones,</hi> or <hi>Salt-Petre,</hi> according to his or their Anti<g ref="char:EOLhyphen"/>quity of Croſſing, or Breaking of Ground, and Setting on of Stowes, as is afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            </div>
+            <div n="5" type="article">
+               <pb n="25" facs="tcp:56004:19"/>
+               <head>Art. V.</head>
+               <p>THAT after the Ground is Poſ<g ref="char:EOLhyphen"/>ſeſt with Stowes, Mea<g ref="char:EOLhyphen"/>ſured, Marked out, and Regiſtered, if a<g ref="char:EOLhyphen"/>ny Man's Stowes be Stol'n off, and taken away by any Malici<g ref="char:EOLhyphen"/>ous Perſon, or by a<g ref="char:EOLhyphen"/>ny Indirect Way or
+<pb n="26" facs="tcp:56004:20"/>Means ſhall be Car<g ref="char:EOLhyphen"/>ried or Taken from the Places where they or any of them Stood, That it ſhall not be Lawful for any Per<g ref="char:EOLhyphen"/>ſon or Perſons to Set his or their Stowes, or Poſſeſs the ſame Ground, or to Work therein, or in any Part of it, for three Months Time next after; and at the End of the three
+<pb n="27" facs="tcp:56004:20"/>Months, he or they who deſires to be <hi>Ow<g ref="char:EOLhyphen"/>ners</hi> and <hi>Poſſeſſors</hi> of the ſame, ſhall go or ſend to the <hi>Bar-Ma<g ref="char:EOLhyphen"/>ſter,</hi> or his Deputy, or to the Miniſter of the Pariſh, or to ſome o<g ref="char:EOLhyphen"/>ther Perſon, as afore<g ref="char:EOLhyphen"/>ſaid, and acquaint him or them there<g ref="char:EOLhyphen"/>with; where-upon the Officer or Perſon, ſo acquainted, ſhall
+<pb n="28" facs="tcp:56004:21"/>Write or ſend to the late <hi>Owner</hi> or <hi>Owners</hi> thereof, to whom the Right of thoſe Meers of Ground did be<g ref="char:EOLhyphen"/>long, or to ſome of his or their Agents; and ſhall give them Notice, That unleſs he or they ſet on New Stowes upon thoſe Meers of Ground, and Dig or Work in ſome Part of it, within three
+<pb n="29" facs="tcp:56004:21"/>Months Time next after ſuch Notice gi<g ref="char:EOLhyphen"/>ven. That his or their Right in and to thoſe Ten Meers of Ground will be given away: But if the <hi>Bar-Maſter,</hi> or other <hi>Officer,</hi> knows not how or where to Write or Send to ſuch <hi>Owner</hi> or <hi>Owners,</hi> nor a<g ref="char:EOLhyphen"/>ny of their Agents, to give him or them No<g ref="char:EOLhyphen"/>tice thereof, Then the
+<pb n="30" facs="tcp:56004:22"/>
+                  <hi>Bar-Maſter,</hi> or his De<g ref="char:EOLhyphen"/>puty, ſhall go to that Ground, and ſhall take Three or Four Perſons along with him, and ſhall there make open PROCLA<g ref="char:EOLhyphen"/>MATION, upon the Mine, ſome Time of the Day, between the Hours of Eight of the Clock in the Morn<g ref="char:EOLhyphen"/>ing, and Two in the Afternoon, in the
+<pb n="31" facs="tcp:56004:22"/>hearing of ſuch Per<g ref="char:EOLhyphen"/>ſons as go along with him, That unleſs the late <hi>Owner,</hi> or <hi>Owners</hi> thereof, ſhall ſet on new Stowes, and make Workman-ſhip in ſome Part of thoſe Meers of Ground, within Three Months Time next after ſuch PROCLAMATION, ſo that the Mine may be ſet forwards, and
+<pb n="32" facs="tcp:56004:23"/>wrought for the Pub<g ref="char:EOLhyphen"/>lick Good of the <hi>KING,</hi> and his Sub<g ref="char:EOLhyphen"/>jects: That for ſuch Neglect, thoſe Ten Meers of Ground in that Rake, Veyn, Pipe, or Flat-Work, will be given away to o<g ref="char:EOLhyphen"/>thers, and his or their Names, that was late in Poſſeſſion, will be raced out of the Re<g ref="char:EOLhyphen"/>giſter, and new <hi>Owners</hi>
+                  <pb n="33" facs="tcp:56004:23"/>put into Poſſeſſion, and their Names Re<g ref="char:EOLhyphen"/>giſtered: And this PROCLAMATION ſhall determine the Right and Intereſt thereof. And fur<g ref="char:EOLhyphen"/>thermore, Every Per<g ref="char:EOLhyphen"/>ſon and Perſons what<g ref="char:EOLhyphen"/>ſoever, having Poſſeſt and Stowed up the Ground, as afore ſaid, whether it be Rake, Veyn, Pipe, or Flat-Work,
+<pb n="34" facs="tcp:56004:24"/>ſhall do and perform ſome actual Work, by Digging and Mining, in ſome Part of that Ground, in Twelve Months Time next after it is ſo Stowed and Poſſeſt, as afore-ſaid; or elſe it is, and ſhall be, Law<g ref="char:EOLhyphen"/>ful to and for the <hi>Bar-Maſter,</hi> or the <hi>KING</hi>'s Officer, to throw off thoſe Stowes, ſo ſet
+<pb n="35" facs="tcp:56004:24"/>on, and to ſet on the Stowes of any other Perſon that ſhall de<g ref="char:EOLhyphen"/>ſire that Ground; to the End, That the Mines may not lye Waſte and Neglected; but that the <hi>KING,</hi> and the Publick, may Receive the Benefit thereof.</p>
+            </div>
+            <div n="6" type="article">
+               <pb n="36" facs="tcp:56004:25"/>
+               <head>Art. VI.</head>
+               <p>THAT no Perſon or Perſons, So<g ref="char:EOLhyphen"/>ciety or Societies of Men, ſhall take up or Poſſeſs above Forty Meers of Ground to<g ref="char:EOLhyphen"/>gether, in any Rake, Veyn, or Pipe-Work, without leaving an
+<pb n="37" facs="tcp:56004:25"/>Interval, or Space of Ten Meers of Ground at leaſt, for other Adventurers; for the Reaſon of giving all the <hi>KING</hi>'s Subjects Encouragement to Venture, and to ſet the Field or Mine more fully at Work, for the Publick Good. But in all Flat-Works of <hi>Gold,</hi> or any of the before — mentioned
+<pb n="38" facs="tcp:56004:26"/>
+                  <hi>Metals, Minerals, Stones,</hi> or <hi>Salts,</hi> every Man ſhall have as many Meers of Ground, as he or they have ſett-on Stowes, being Twenty Nine Yards Square, upon the Superficies of the Ground, for every Pair of Stowes; and for every Man ſuc<g ref="char:EOLhyphen"/>ceſſively, ſooner or later, according to
+<pb n="39" facs="tcp:56004:26"/>his or their Taking, Stowing, and Work<g ref="char:EOLhyphen"/>ing the ſame, as a<g ref="char:EOLhyphen"/>fore-ſaid.</p>
+            </div>
+            <div n="7" type="article">
+               <head>Art. VII.</head>
+               <p>THAT all <hi>Miners,</hi> and <hi>Adventurers,</hi> ſhall have the Tim<g ref="char:EOLhyphen"/>ber of the Countrey,
+<pb n="40" facs="tcp:56004:27"/>(where the Grounds are not encloſed) for the uſe of their Mines, to Work and Uphold the ſame, and to Smelt and Refine their Oars with, or to do and per<g ref="char:EOLhyphen"/>form any other Ser<g ref="char:EOLhyphen"/>vice or Buſineſs, their Occaſions ſhall re<g ref="char:EOLhyphen"/>quire, in and about the Mines; And Li<g ref="char:EOLhyphen"/>berty to Dreſs, Waſh, and Cleanſe their
+<pb n="41" facs="tcp:56004:27"/>Oars from the Earth, and Rubbiſh, whether they be <hi>Silver, Gold, Copper,</hi> or any other <hi>Metal, Stones,</hi> or <hi>Salt,</hi> as before-mentioned, in the moſt fit and con<g ref="char:EOLhyphen"/>venient Places they can find; and ſhall Build, and ſet up Smelting Mills, or Melting and Refining Houſes for the ſame; and ſhall have Ways,
+<pb n="42" facs="tcp:56004:28"/>with free Egreſs and Regreſs, to Paſs and Repaſs, to and from the Mines, with any Carriages; and the Benefit of the Water, where-ever they ſhall find it. And when the Oars ſhall be Cleanſed from the Earth, and Rubbiſh, and made fit for Melt<g ref="char:EOLhyphen"/>ing and Refining, be<g ref="char:EOLhyphen"/>fore any of the Oar
+<pb n="43" facs="tcp:56004:28"/>is Removed, Convey<g ref="char:EOLhyphen"/>ed, and Carried away from the Ground, where it is got, to Smelt, or Refine, or any other Ways to be diſpoſed off by the <hi>Ow<g ref="char:EOLhyphen"/>ners, Diggers,</hi> or <hi>Get<g ref="char:EOLhyphen"/>ters</hi> of the ſame; The <hi>KING</hi>'s Officer, or his Deputy, or ſome ſuch Perſon, as is be<g ref="char:EOLhyphen"/>fore-mentioned, ſhall be ſent for, to Mea<g ref="char:EOLhyphen"/>ſure
+<pb n="44" facs="tcp:56004:29"/>or Weigh the ſame. And when the <hi>Bar-Maſter,</hi> or his De<g ref="char:EOLhyphen"/>puty, hath taken the Sixth Part of all <hi>Gold</hi> and <hi>Silver Oars,</hi> and the Twelfth Part of all <hi>Copper, Lead, Tin,</hi> and <hi>Quick-Silver Oars,</hi> and the like for <hi>Preci<g ref="char:EOLhyphen"/>ous Stones,</hi> and <hi>Salt-Pe<g ref="char:EOLhyphen"/>tre,</hi> as afore-ſaid, for the Uſe of the <hi>KING;</hi> Then the <hi>Miner,</hi> or
+<pb n="45" facs="tcp:56004:29"/>
+                  <hi>Maintainer,</hi> ſhall have Liberty to Sell and Diſpoſe of the Reſt, to his or their beſt Advantage; or to Smelt and Refine the ſame, as he or they that Owns them think fit; And after it is made into <hi>Copper, Lead,</hi> or <hi>Tin,</hi> ſhall and may (if he or they pleaſe) Smoke off the <hi>Baſe Metal,</hi> or Refine their
+<pb n="46" facs="tcp:56004:30"/>Oars, before they are Melted, by <hi>Quick-Sil<g ref="char:EOLhyphen"/>ver,</hi> or <hi>Corroſive-Waters,</hi> or any other Way, to the beſt of his or their Advantage, accord<g ref="char:EOLhyphen"/>ing as his or their Skill and Judgment ſhall direct them, either in Oars, or in Metal, as he or they think fit.</p>
+            </div>
+            <div n="8" type="article">
+               <pb n="47" facs="tcp:56004:30"/>
+               <head>Art. VIII.</head>
+               <p>THAT if it ſhall ſo happen, that Two Veyns of <hi>Silver, Gold, Copper,</hi> or any o<g ref="char:EOLhyphen"/>ther Metal, ſhall run or go along One by the Side of Another, and ſhall be parted by a Rither or Rock
+<pb n="48" facs="tcp:56004:31"/>of Stone Three Foot Thick, or more; That then they ſhall be Held and Account<g ref="char:EOLhyphen"/>ed for Two Rakes or Veyns; and he or they that Found the Firſt Veyn, ſhall Hold and Enjoy that in his or their own Right; for each Pair of Stowes, a Meer of Ground, as is before-ſaid: And ſo likewiſe ſhall he or
+<pb n="49" facs="tcp:56004:31"/>they that Found and Diſcovered the other Veyn or Rake, ſo run<g ref="char:EOLhyphen"/>ing near, and going along by the Side of the Veyn firſt Found, according to his or their Croſſing, Ta<g ref="char:EOLhyphen"/>king, and Poſſeſſing of the ſame with Stowes, one Meer of Ground for each Pair of Stowes; and ſo eve<g ref="char:EOLhyphen"/>ry Man, ſooner or la<g ref="char:EOLhyphen"/>ter,
+<pb n="50" facs="tcp:56004:32"/>according to his or their Taking and Stowing. But if theſe Two Rakes or Veyns run One into Ano<g ref="char:EOLhyphen"/>ther, and continue ſo, or go ſo near toge<g ref="char:EOLhyphen"/>ther, that the Rither or Rock, which parts them, may be got, without Blaſting and Blowing down of the ſame Rock with Gun-Powder; Then they
+<pb n="51" facs="tcp:56004:32"/>ſhall be Taken, Held, and Accounted for one Veyn; and he or they that was the firſt <hi>Finders,</hi> or <hi>Owners</hi> of the Veyn firſt Found, ſhall Enjoy the ſame, ſo long as they conti<g ref="char:EOLhyphen"/>nue thus together: But if theſe two Rakes, or Veyns, or any o<g ref="char:EOLhyphen"/>ther Rake or Veyn, Interſect and Croſs one another Diame<g ref="char:EOLhyphen"/>trically,
+<pb n="52" facs="tcp:56004:33"/>as thus, + or obliquely, in this man<g ref="char:EOLhyphen"/>ner,
+<figure/> He that firſt comes to, and finds the Place, or Point of Interſection, ſhall Hold and Enjoy the ſame: That is to ſay, He ſhall Hold and Enjoy his own Veyn, as A.—A. in his own Right, and Three Foot of either
+<pb n="53" facs="tcp:56004:33"/>Side into the Veyn B—B, as far as the Black Spots.. be<g ref="char:EOLhyphen"/>yond which, being Three Foot, of either Side, from the Point of Interſection, to<g ref="char:EOLhyphen"/>wards B—B, he ſhall not Work, up<g ref="char:EOLhyphen"/>on the Pain of For<g ref="char:EOLhyphen"/>feiting the double Va<g ref="char:EOLhyphen"/>lue of the Oar got therein, without any Coſt or Charges to
+<pb n="54" facs="tcp:56004:34"/>the Wronged Perſon, if that Veyn or Rake B—B belong to any other Perſon or Perſons; and this Point of Interſection ſhall be called the P, to diſtinguiſh it: But if the Veyn B—B be a New Veyn, and no other Perſon in Poſſeſſion of it; Then it is, and ſhall be Lawful for the <hi>Finder</hi>
+                  <pb n="55" facs="tcp:56004:34"/>thereof to Take and Poſſeſs it, and Hold it in his own Right. And if any Perſon ſhall Work upon the Front and Forefield of ano<g ref="char:EOLhyphen"/>ther Man's Rake or Veyn, and ſhall be thought and judged to Work in the ſame Veyn that another Man, at ſome Di<g ref="char:EOLhyphen"/>ſtance, had firſt in Work, and was Poſſeſt
+<pb n="56" facs="tcp:56004:35"/>of; Then the Perſon that thinks himſelf Wronged, ſhall apply himſelf to the <hi>Bar-Maſter,</hi> or his Deputy, and deſire him to keep an Account of all the Oar got therein; and before the <hi>Getters,</hi> or <hi>Owners</hi> thereof, ſhall carry it, or any of it away, or ſhall Smelt, Melt, or Refine any of the ſame into <hi>Sil<g ref="char:EOLhyphen"/>ver,
+<pb n="57" facs="tcp:56004:35"/>Gold,</hi> or any other Metal, he or they ſhall give Bond to the <hi>Ow<g ref="char:EOLhyphen"/>ners</hi> of the firſt Veyn, That, if by Work<g ref="char:EOLhyphen"/>manſhip, in Length of Time, theſe Two Pla<g ref="char:EOLhyphen"/>ces proves to be one and the ſame Veyn, to return the full va<g ref="char:EOLhyphen"/>lue of the Oar got therein, to the <hi>Owners</hi> or <hi>Finders</hi> of the firſt Veyn, without Stop<g ref="char:EOLhyphen"/>ing
+<pb n="58" facs="tcp:56004:36"/>or Deducting any Coſt or Charges for Getting the ſame; and if he or they re<g ref="char:EOLhyphen"/>fuſe to give Bond, then the Oar ſhall be Stopt, and Seized for the Uſe of the firſt <hi>Owners,</hi> by the <hi>Bar-Maſter,</hi> or his Deputy, till further Workman<g ref="char:EOLhyphen"/>ſhip ſhall make the Truth appear, whe<g ref="char:EOLhyphen"/>ther they be one and
+<pb n="59" facs="tcp:56004:36"/>the ſame Veyn or no; and to whether of them, the Place in Queſtion and Diſpute, doth appertain and belong.</p>
+            </div>
+            <div n="9" type="article">
+               <head>Art. IX.</head>
+               <p>THAT whereas it is moſt Natural and Cuſtomary, for
+<pb n="60" facs="tcp:56004:37"/>
+                  <hi>Gold</hi> to lye in the Earth in Flat-Work; there<g ref="char:EOLhyphen"/>fore, when any <hi>Gold, Silver, Copper,</hi> or the Oars of any other Me<g ref="char:EOLhyphen"/>tal, ſhall be found to lye in Flat-Work, he or they who firſt Find<g ref="char:EOLhyphen"/>eth the ſame, and Croſſeth, Breaketh Ground, and Sets on Stowes within Three Days Time next af<g ref="char:EOLhyphen"/>ter ſuch Flat-Work
+<pb n="61" facs="tcp:56004:37"/>is Found, ſhall have as many Meers of Ground in that Flat-Work, as he or they ſhall Set on Stowes in Three Days Time next Enſuing the Finding, Croſſing, and Taking thereof, each Meer of Ground con<g ref="char:EOLhyphen"/>taining Twenty Nine Yards of Ground Square, upon the Superficies; within
+<pb n="62" facs="tcp:56004:38"/>which Length and Compaſs of Ground, no other Perſon or Perſons ſhall preſume to Dig, Work, or Car<g ref="char:EOLhyphen"/>ry the ſame away, without the Leave and Conſent of the firſt <hi>Finder,</hi> or <hi>Owners</hi> thereof. But if any other Perſon or Per<g ref="char:EOLhyphen"/>ſons, ſhall find any o<g ref="char:EOLhyphen"/>ther Veyn or Veyns, Rake or Rakes, that
+<pb n="63" facs="tcp:56004:38"/>ſhall ſink Perpendicu<g ref="char:EOLhyphen"/>lar or Hadeing, with<g ref="char:EOLhyphen"/>in the Limits or Com<g ref="char:EOLhyphen"/>paſs of that Ground ſo Taken, Poſſeſt, and Stowed up for Flat-Work, as afore-ſaid; That then it is, and ſhall be Lawful to and for the firſt <hi>Finders,</hi> or <hi>Owners</hi> of thoſe Rakes, and Veyns, to Hold, Work, and Enjoy the ſame, &amp; all the <hi>Product</hi>
+                  <pb n="64" facs="tcp:56004:39"/>thereof, that ſhall be got within the Com<g ref="char:EOLhyphen"/>paſs and Bounds of thoſe Rakes or Veyns, without any Diſtur<g ref="char:EOLhyphen"/>bance or Hindrance from or by the <hi>Owners</hi> or <hi>Maſters</hi> of the Flat-Works; becauſe ſuch Rakes and Veyns lye in the Earth after a<g ref="char:EOLhyphen"/>nother Manner, and Nature, quite diffe<g ref="char:EOLhyphen"/>rent to Flat-Works,
+<pb n="65" facs="tcp:56004:39"/>and are Separate Things; And ſo (ſuc<g ref="char:EOLhyphen"/>ceſſively) every one in the ſame Rakes or Veyns, according to his or their Taking, and Poſſeſſing with Stowes, ſooner or la<g ref="char:EOLhyphen"/>ter, ſhall be ſerved, Hold and Enjoy the Meers of Ground ſo Taken, and Poſſeſt, in thoſe Rakes and Veyns. And if there
+<pb n="66" facs="tcp:56004:40"/>be no Veyns or Rakes Found within that Compaſs of Ground, ſo Taken and Poſſeſt for Flat-Work, but the Flat-Work ſhall continue, and extend it ſelf, bearing <hi>Gold,</hi> or the Oars of any other Metal, further, and beyond the Limits of the Ground ſo Poſ<g ref="char:EOLhyphen"/>ſeſt with Stowes, as afore-ſaid, for Flat-Works;
+<pb n="67" facs="tcp:56004:40"/>That then the firſt and next <hi>Taker, Poſſeſſor,</hi> and <hi>Stower</hi> of the next adjoyning Ground, ſhall Hold and Enjoy as many Meers of Ground, each Meer contain<g ref="char:EOLhyphen"/>ing Twenty Nine Yards of Square Ground upon the Su<g ref="char:EOLhyphen"/>perficies, as he or they have Taken, and Set on Stowes for the
+<pb n="68" facs="tcp:56004:41"/>ſame Flat-Work, with<g ref="char:EOLhyphen"/>in the Time afore-ſaid; and ſo, ſucceſ<g ref="char:EOLhyphen"/>ſively, every other Perſon or Perſons ſhall be ſerved, ſoon<g ref="char:EOLhyphen"/>er or later, accord<g ref="char:EOLhyphen"/>ing to his or their Ta<g ref="char:EOLhyphen"/>king, Poſſeſſing, and Stowing up of the ſame Flat-Work; be it in <hi>Gold Mines,</hi> or in Seams and Beds of <hi>Salt-Petre,</hi> or <hi>Precious
+<pb n="69" facs="tcp:56004:41"/>Stones</hi> lying in the Earth, Soyl, or Rocks, in Flat-Works, as a<g ref="char:EOLhyphen"/>fore-ſaid; or any o<g ref="char:EOLhyphen"/>ther Metal and Oars, lying in the ſame man<g ref="char:EOLhyphen"/>ner whatſoever.</p>
+            </div>
+            <div n="10" type="article">
+               <pb n="70" facs="tcp:56004:42"/>
+               <head>Art. X.</head>
+               <p>THAT where any Oars ſhall be got, made, and run in<g ref="char:EOLhyphen"/>to <hi>Copper, Lead, Tin,</hi> or <hi>Quick-Silver,</hi> all and every Part of thoſe Metals, that ſhall be uſed and ſpent in the Countrey, where they
+<pb n="71" facs="tcp:56004:42"/>are got, ſhall Pay no other Duty to the <hi>KING,</hi> but only that before-mentioned; for the Reaſon of gi<g ref="char:EOLhyphen"/>ving the Inhabitants, and Adventurers, all the Encouragement, that may be, to Work the Mines, and to Car<g ref="char:EOLhyphen"/>ry on the Field. But if the <hi>Finders, Getters,</hi> or <hi>Owners</hi> thereof, or any other Perſon, ſhall
+<pb n="72" facs="tcp:56004:43"/>have a mind, and finds it for his or their Be<g ref="char:EOLhyphen"/>nefit and Advantage, to Tranſport and Ship them, or any of them, from the Countries where they are got, to other Places be<g ref="char:EOLhyphen"/>yond the Seas, he or they that Ships them, ſhall Pay for every Tunn of <hi>Copper</hi> ſo Shipt, Twenty Shil<g ref="char:EOLhyphen"/>lings to the <hi>KING</hi>'s
+<pb n="73" facs="tcp:56004:43"/>Officer, for the Uſe of the <hi>KING;</hi> and the ſame Sum of Twenty Shillings the Tunn, for <hi>Salt-Petre,</hi> and <hi>Tin;</hi> and Five Pounds for every Tunn of <hi>Quick-Silver</hi> ſo Shipt off, and Tranſported from the Countries where they are got: For the Pay<g ref="char:EOLhyphen"/>ment of which Du<g ref="char:EOLhyphen"/>ties, and the Twelfth Part or Caract of all
+<pb n="74" facs="tcp:56004:44"/>
+                  <hi>Precious Stones,</hi> as a<g ref="char:EOLhyphen"/>fore-ſaid, All <hi>Diggers, Finders, Owners, Buyers, Adventurers,</hi> or <hi>Dealers</hi> therein, or in any of them, ſhall have free Liberty to Sell, Ship, and Tranſport them to any Part or Place whatſoever, to the beſt of his or their Advantage.</p>
+               <trailer>
+                  <hi>The End of the</hi> Articles.</trailer>
+            </div>
+            <div type="part">
+               <pb n="75" facs="tcp:56004:44"/>
+               <p>ALL which Me<g ref="char:EOLhyphen"/>thods, Rules, and Articles, that they, and every of them, may be E<g ref="char:EOLhyphen"/>nacted, Eſtablish<g ref="char:EOLhyphen"/>ed, and Confirm<g ref="char:EOLhyphen"/>ed by the King's
+<pb n="76" facs="tcp:56004:45"/>moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty, and this pre<g ref="char:EOLhyphen"/>ſent Parliament, now Aſſembled, as LAWS and CU<g ref="char:EOLhyphen"/>STOMS, hereaf<g ref="char:EOLhyphen"/>ter to be Practi<g ref="char:EOLhyphen"/>ſed, Uſed, and Obſerved by all the Subjects of the
+<pb n="77" facs="tcp:56004:46"/>Crown of England, in all Parts of Afri<g ref="char:EOLhyphen"/>ca, and America, for the Diſcover<g ref="char:EOLhyphen"/>ing, Working, and Carrying on any of the Mines before<g ref="char:EOLhyphen"/>mentioned, when and where they, or any of them, shall
+<pb n="78" facs="tcp:56004:47"/>be Found, is the moſt Humble Pe<g ref="char:EOLhyphen"/>tition and Requeſt of a well-Wisher to the Nation's In<g ref="char:EOLhyphen"/>tereſt,</p>
+               <closer>
+                  <signed>T. H.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:56004:45"/>
+            <head>Poſtſcript.</head>
+            <head>TO THE LORDS <hi>Spiritual and Temporal,</hi> Together with the COMMONS, <hi>Aſſembled in this preſent</hi> PARLIAMENT.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>IT is Worth your Thoughts &amp; Con<g ref="char:EOLhyphen"/>ſiderations, to En<g ref="char:EOLhyphen"/>quire
+<pb n="80" facs="tcp:56004:46"/>into the Rea<g ref="char:EOLhyphen"/>ſons and Cauſes, Why no <hi>Engliſh King, Prince, Noble-Man, Merchant,</hi> nor any other <hi>Perſon</hi> of Heroick Spirit, ſhould not, in all this Time, ſince <hi>America</hi> hath been Diſcovered, en<g ref="char:EOLhyphen"/>deavour to be Ma<g ref="char:EOLhyphen"/>ſter of <hi>Silver</hi> and <hi>Gold Mines,</hi> as well as the <hi>Spaniards;</hi> there be<g ref="char:EOLhyphen"/>ing in many Places of
+<pb n="81" facs="tcp:56004:47"/>
+               <hi>America,</hi> now in the Hands of the <hi>Engliſh,</hi> as Rich, and as Plenti<g ref="char:EOLhyphen"/>ful <hi>Veyns</hi> and <hi>Mines to be Found,</hi> as any the <hi>Spaniards</hi> have in <hi>Peru,</hi> or <hi>New-Spain.</hi> But one Reaſon of this Misfortune, I believe to be this; He that hath had Subſtance, to have undertaken this Enterpriſe, hath wanted Skill, and
+<pb n="82" facs="tcp:56004:48"/>durſt not Truſt ano<g ref="char:EOLhyphen"/>ther <hi>with a ſmall Stock out of Sight;</hi> nor would not go himſelf with ſuch as had Judgment therein: Or, He that hath had Skill, hath wanted Money, and Encouragement, to Manage and Carry on this Affair, and ſo could not undertake it, for want of a Stock; and as yet, no Perſon
+<pb n="83" facs="tcp:56004:48"/>hath Petitioned any KING or PRINCE, about it: However, it is plain, and too true, the Mines have been Neglected, which one would think, ſince all the <hi>Kings, Princes, Gran<g ref="char:EOLhyphen"/>dees,</hi> and <hi>Perſons of E<g ref="char:EOLhyphen"/>ſtates,</hi> in <hi>Europe,</hi> have known, That for 150 Years laſt paſt, the <hi>Spaniards</hi> have import<g ref="char:EOLhyphen"/>ed at <hi>Cales,</hi> from Ten
+<pb n="84" facs="tcp:56004:49"/>to Forty Millions a Year, in <hi>Silver</hi> and <hi>Gold,</hi> beſides many <hi>Precious Stones,</hi> and other <hi>Rich Commodities,</hi> of great Value. The Know<g ref="char:EOLhyphen"/>ledge of which, one would imagine, ſhould have ſtrongly indu<g ref="char:EOLhyphen"/>ced ſome other <hi>Prince,</hi> or <hi>Heroick Spirited Men,</hi> to have uſed all their Endeavours to have Found and Diſcover<g ref="char:EOLhyphen"/>ed
+<pb n="85" facs="tcp:56004:49"/>ſuch Mines; and have given them ſuf<g ref="char:EOLhyphen"/>ficient Cauſe to have purſued the ſame, by ſending ſuch Perſons about this Affair, as well Underſtandeth ſuch Things: But the chief Reaſon and Miſ<g ref="char:EOLhyphen"/>chief, that theſe Mines have layn ſo long Ne<g ref="char:EOLhyphen"/>glected, is, Becauſe a few PROPRIETORS (as is before recited in
+<pb n="86" facs="tcp:56004:50"/>the PREFACE,) ha<g ref="char:EOLhyphen"/>ving, together with the Land, got Grants from the Crown, of the Royalties, where Mines, and Mineral Countries are; and not uſing any effectu<g ref="char:EOLhyphen"/>al Means to Diſcover the Mines themſelves, at their Charge, the Enterpriſe hath re<g ref="char:EOLhyphen"/>mained intricate, and no ways feaſable to
+<pb n="87" facs="tcp:56004:50"/>Others, by Reaſon of thoſe Grants; all o<g ref="char:EOLhyphen"/>ther Perſons being prohibited to engage therein. For, to what purpoſe ſhall a Man ſpend his Time, La<g ref="char:EOLhyphen"/>bour, and Money, to Enrich Others, by Seeking for That, which, when he hath found, neither He, nor his Heirs, ſhall Enjoy, nor any part thereof:
+<pb n="88" facs="tcp:56004:51"/>
+               <hi>To Engage in this, would be perfect Madneſs.</hi> This is the chief Reaſon, why the <hi>Engliſh</hi> are not Maſters of <hi>Silver</hi> and <hi>Gold Mines,</hi> as well as the <hi>Spaniards;</hi> and not the want of ſuch Mines, being within the <hi>Engliſh</hi> Territories and Dominions; for if this <hi>Sore</hi> was once <hi>Cu<g ref="char:EOLhyphen"/>red,</hi> The <hi>Engliſh</hi> would have a <hi>Plate</hi>-Fleet, in
+<pb n="89" facs="tcp:56004:51"/>a few Years, Arrive in <hi>England,</hi> as well as the <hi>Flota</hi> doth in <hi>Spain.</hi> How great the Loſs of which hath been, and is, and how Accepta<g ref="char:EOLhyphen"/>ble and Profitable the Diſcovering of ſuch Mines, and an Arrival of a <hi>Plate</hi>-Fleet Year<g ref="char:EOLhyphen"/>ly in <hi>England,</hi> would be, I leave every one to Judge, that knows the Uſe and Service
+<pb n="90" facs="tcp:56004:52"/>of <hi>Silver</hi> and <hi>Gold:</hi> And the Cauſe and Cauſes, why there are no ſuch Mines Wrought in <hi>America,</hi> but what are Wrought by the <hi>Spa<g ref="char:EOLhyphen"/>niards,</hi> are only the Reaſons afore-ſaid; concerning which, I hope, I have ſaid ſuffi<g ref="char:EOLhyphen"/>cient; and that ſome better Care will be taken, for the Future, whereby all thoſe
+<pb n="91" facs="tcp:56004:52"/>Grants, relating to the Mines in <hi>America,</hi> may be Null'd, Revok'd, and made Void, (on<g ref="char:EOLhyphen"/>ly in ſuch Clauſes as concern Mines,) by the <hi>King's moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty,</hi> and the Prudence of this Pre<g ref="char:EOLhyphen"/>ſent <hi>Parliament;</hi> and that the <hi>KING</hi> here<g ref="char:EOLhyphen"/>after may remain ſole Lord of the Field, and Royalties, in all Parts
+<pb n="92" facs="tcp:56004:53"/>of <hi>Africa,</hi> and <hi>America,</hi> that are now, or ſhall be, Annexed to the CROWN of <hi>England, &amp;c.</hi> The <hi>Indians,</hi> both on the <hi>South</hi> and <hi>North</hi> Side the <hi>Aequinoctial,</hi> had Found the Mines, and Wrought in them (after their Faſhion) for above Three Hun<g ref="char:EOLhyphen"/>dred Years before the <hi>Spaniards</hi> came there; or elſe moſt of the
+<pb n="93" facs="tcp:56004:53"/>Mines had layn Un<g ref="char:EOLhyphen"/>diſcovered to this Day, by Reaſon of the <hi>Spaniards</hi> Lazineſs; for the <hi>Indians</hi> of <hi>Peru,</hi> ha<g ref="char:EOLhyphen"/>ving Lived ſome Hun<g ref="char:EOLhyphen"/>dreds of Years in a civiliz'd Government, before the <hi>Spaniards</hi> Arrival, had Wrought the Mines, and got great Quantities of <hi>Silver</hi> and <hi>Gold,</hi> al<g ref="char:EOLhyphen"/>though they were in
+<pb n="94" facs="tcp:56004:54"/>no proper way of Working them, nor had any Iron or Steel<g ref="char:EOLhyphen"/>ed Tools, fit for the Service of the Mines; but only Tools of Copper, which they Valued more than <hi>Silver</hi> or <hi>Gold,</hi> in re<g ref="char:EOLhyphen"/>gard the Tools and Utenſils of Copper were moſt ſerviceable for their Domeſtick Affairs, and all other
+<pb n="95" facs="tcp:56004:54"/>Occaſions, in their Times: So that, for many Years, where-ever the <hi>Spaniards</hi> came, unleſs they Found Veſſels of <hi>Sil<g ref="char:EOLhyphen"/>ver</hi> and <hi>Gold</hi> in the <hi>In<g ref="char:EOLhyphen"/>dians</hi> Houſes, or ſome<g ref="char:EOLhyphen"/>where Wore about them, at their Ears, Lips, Necks, or No<g ref="char:EOLhyphen"/>ſes; or was conduct<g ref="char:EOLhyphen"/>ed, by the <hi>Indians,</hi> to the Mines, and Pla<g ref="char:EOLhyphen"/>ces,
+<pb n="96" facs="tcp:56004:55"/>where the <hi>Silver</hi> and <hi>Gold</hi> had been got, The beſt and Richeſt Mines, the <hi>Spaniards</hi> now have, lay Void, and for a long Time Unwrought; being no more taken Notice of, than ſome Mine<g ref="char:EOLhyphen"/>ral Countries now are by the <hi>Engliſh,</hi> in ſeve<g ref="char:EOLhyphen"/>ral Parts of <hi>America.</hi> And the beſt Method (for Gathering and
+<pb n="97" facs="tcp:56004:55"/>Taking up <hi>Gold,</hi>) moſt of the <hi>Spaniards</hi> had, for many Years, was only to Cleanſe and Scower up the ſmall Rivers and Brooks of the Countrey, falling from the Mountains; from the Sands where<g ref="char:EOLhyphen"/>of, they Gathered much <hi>Gold,</hi> without the <hi>Experience</hi> of Digging, Mining, and Sink<g ref="char:EOLhyphen"/>ing of Shafts, to ſeek
+<pb n="98" facs="tcp:56004:56"/>for Veyns and Rakes: The Knowledge of which hath not been many Years Under<g ref="char:EOLhyphen"/>ſtood, and Practiſed by them; nor is yet Underſtood, Uſed, and Practiſed to that Heighth, and to ſuch Advantage, as it might be. So that, in ma<g ref="char:EOLhyphen"/>ny Places, which are now in the Poſſeſſion of the <hi>Engliſh,</hi> there
+<pb n="99" facs="tcp:56004:56"/>was never any Shafts Sunk, and put down, either by the <hi>Engliſh,</hi> or the <hi>Spaniards;</hi> their chief Objects, and Pla<g ref="char:EOLhyphen"/>ces of Tryal, being only the Surface of the Earth, with the Brooks and Rivers, as afore-ſaid. And therefore it remains, without Contradicti<g ref="char:EOLhyphen"/>on, there is all the pro<g ref="char:EOLhyphen"/>bable Signs and Sym<g ref="char:EOLhyphen"/>ptomes
+<pb n="100" facs="tcp:56004:57"/>of Rich Veyns to be had, and Found, for Digging and Seek<g ref="char:EOLhyphen"/>ing for. And to this Day, the beſt Me<g ref="char:EOLhyphen"/>thod and Way that is Known, Practiſed, and Uſed by the <hi>Spaniards,</hi> and <hi>Indians,</hi> for Ga<g ref="char:EOLhyphen"/>thering and Taking up <hi>Gold,</hi> in Flat-Work, is as followeth: The <hi>Spaniards</hi> ſet their <hi>In<g ref="char:EOLhyphen"/>dians</hi> and <hi>Negro</hi> Slaves
+<pb n="101" facs="tcp:56004:57"/>out a <hi>Parcel</hi> of Ground, Forty or Fifty Yards Square, more or leſs, as the <hi>Patroon</hi> or <hi>Ma<g ref="char:EOLhyphen"/>ſter</hi> thinks fit; which Ground, the <hi>Indians</hi> and Slaves Dig up as Deep as they Find a<g ref="char:EOLhyphen"/>ny <hi>Gold</hi> in it; and as they Dig it, throw it into Wheel-Barrows; which being done, their other Slaves run it away to the next
+<pb n="102" facs="tcp:56004:58"/>River, or Running-Brook, and there lays it down, and Returns for more; and in this Manner they Labour, till their Days Work is done, in Digging and carrying of Earth. At the River, or Run<g ref="char:EOLhyphen"/>ning Brook, there are alſo ſeveral other <hi>In<g ref="char:EOLhyphen"/>dian</hi> Women, Boys, Girls, or Slaves, at Work, having Bowls,
+<pb n="103" facs="tcp:56004:58"/>or ſmall Treays with Handles; where a <hi>Ne<g ref="char:EOLhyphen"/>gro</hi> Boy or Girl, ha<g ref="char:EOLhyphen"/>ving firſt broken and beaten the Lumps of Earth ſmall, where, by Reaſon of the Heat, it immediately dryes; which when it is dry, they put about an <hi>Engliſh</hi> Peck of that ſmall Earth, ſo beaten and dryed, into one of thoſe Treays, as
+<pb n="104" facs="tcp:56004:59"/>afore-ſaid, at a Time; and then the Woman ſhakes and dances it about in the Water, turning the Bowl or Treay about and a<g ref="char:EOLhyphen"/>bout, till the Water hath Waſht away all the Earth, and Rub<g ref="char:EOLhyphen"/>biſh; and what <hi>Gold</hi> is in it, ſinks, and re<g ref="char:EOLhyphen"/>mains at the Bottom; which not being ful<g ref="char:EOLhyphen"/>ly Cleanſed from the
+<pb n="105" facs="tcp:56004:59"/>Earth, is put into a Bowl that ſtands by, to undergo a ſecond and a third Cleanſing. And in this Manner, the Women, Boys, and Girls, renew filling of their Treays and Bowls, with that Earth, till their Days Work is done; and ſo daily gather more or leſs <hi>Gold,</hi> according as it happens, and as that
+<pb n="106" facs="tcp:56004:60"/>Flat-Work is more or leſs Plentiful of <hi>Gold;</hi> Purſuing this Method in Digging, Carrying, and Waſhing, as long as that Earth hath any <hi>Gold</hi> in it worth their Labour; and then they remove to another Place. After this Way, they Work out all their Earth and Land, that lies near Rivers, or Running-Brooks,
+<pb n="107" facs="tcp:56004:60"/>that hath <hi>Gold</hi> in it; but where the <hi>Gold</hi> lies at a great Di<g ref="char:EOLhyphen"/>ſtance from any Run<g ref="char:EOLhyphen"/>ning Water, they are obliged to let all a<g ref="char:EOLhyphen"/>lone, or elſe to loſe the greateſt Part of the <hi>Gold</hi> that is ſmall; for in ſuch Places that are remote from the Water, (as on the Tops and Plains of the <hi>Mountains,</hi> where there
+<pb n="108" facs="tcp:56004:61"/>is generally the moſt plentiful Store of <hi>Gold</hi>) the beſt Ways they Uſe or Underſtand to gather it there, are theſe: They Dig the Earth, Dry it, then Beat it ſmall, and Sift it; which done, they Spread or Strow it thin upon the Ground, and there it lies, till the next Showers of Rain Waſh it; and then
+<pb n="109" facs="tcp:56004:61"/>they pick out what <hi>Gold</hi> they can; which being done, they draw the Earth up and down with Coal-Rakes, or turn it with Shovels, and ſpread it thin again, and let it lye till other Rains waſh it, and ſo pick it over again; which O<g ref="char:EOLhyphen"/>peration, being twice or thrice Repeated, and having taken
+<pb n="110" facs="tcp:56004:62"/>what <hi>Gold</hi> they can out this Way, they then ſhovel all the Earth together upon Heaps; and if there be no Pools or ſtanding Wa<g ref="char:EOLhyphen"/>ters near, they make Ponds or Pools, which when the Rain-Water hath filled, they carry that Earth, ſo laid up<g ref="char:EOLhyphen"/>on Heaps, thither, and waſh it, with their Treays and Bowls, in
+<pb n="111" facs="tcp:56004:62"/>thoſe Pools, as afore<g ref="char:EOLhyphen"/>ſaid: And by this Means they get ſome more <hi>Gold,</hi> although moſt of the fine and ſmall <hi>Gold</hi> is quite loſt, becauſe the Water of thoſe ſtanding Pools ſoon grows dirty and muddy, and thereby rendred unfit to ſepe<g ref="char:EOLhyphen"/>rate the fine duſt <hi>Gold</hi> from the Earth, for want of clear running-Waters;
+<pb n="112" facs="tcp:56004:63"/>which Error, and Defect, might ea<g ref="char:EOLhyphen"/>ſily be amended, and all the <hi>Gold,</hi> though never ſo ſmall, preſer<g ref="char:EOLhyphen"/>ved, if they under<g ref="char:EOLhyphen"/>ſtood the way of <hi>Huſh<g ref="char:EOLhyphen"/>ing,</hi> and uſing long Buddles, and Lan<g ref="char:EOLhyphen"/>ders: As much <hi>Gold</hi> might be taken up in a Month, by the ſame Number of Hands, as they now take up in
+<pb n="113" facs="tcp:56004:63"/>Seven Years: But, whether this be a pro<g ref="char:EOLhyphen"/>per Place, and a fit Time, to Shew and Deſcribe the Way of <hi>Huſhing,</hi> and Uſing theſe Buddles and Landers, I know not, till I find what Rece<g ref="char:EOLhyphen"/>ption and Counte<g ref="char:EOLhyphen"/>nance theſe ARTICLES will meet with. And if the Deſign of this Book meets with En<g ref="char:EOLhyphen"/>couragement,
+<pb n="114" facs="tcp:56004:64"/>I will Publiſh a Book, Enti<g ref="char:EOLhyphen"/>tuled, <hi>The Royal Miner;</hi> (in which, the whole Method and Progreſs of Digging, Working, and Carrying on of Mines, from the firſt Beginning, or Break<g ref="char:EOLhyphen"/>ing of Ground, to the Melting, Refining, and Making the Oars into Metal, ſhall be clearly Taught and
+<pb n="115" facs="tcp:56004:64"/>Deſcribed; together, with all the Work-Tools, Inſtruments, and Materials, Uſed in and about the Mines: As alſo, what Inci<g ref="char:EOLhyphen"/>dents, or Accidents, Prejudicial, or Profit<g ref="char:EOLhyphen"/>able, hath, doth, and may attend the ſame, as far as Art, or Na<g ref="char:EOLhyphen"/>ture, hath Diſcovered theſe things to Hu<g ref="char:EOLhyphen"/>mane Reaſon: In all
+<pb n="116" facs="tcp:56004:65"/>which, (I may ſay, without Boaſting,) I have had long Expe<g ref="char:EOLhyphen"/>rience, and am as ca<g ref="char:EOLhyphen"/>pable to Acquaint Po<g ref="char:EOLhyphen"/>ſterity with, as any Perſon extant, having, for Six and Twenty Years paſt, been uni<g ref="char:EOLhyphen"/>verſally concerned in Mines, in all, or moſt of the Mineral Coun<g ref="char:EOLhyphen"/>tries of <hi>England,</hi> not only as a <hi>Partner, Ma<g ref="char:EOLhyphen"/>ſter,</hi>
+               <pb n="117" facs="tcp:56004:65"/>or <hi>Owner</hi> of them; but in the Practick Part of their Work<g ref="char:EOLhyphen"/>man-ſhip, from the Beginning, to the End:) In which Book, I will deſcribe the Me<g ref="char:EOLhyphen"/>thod of theſe Bud<g ref="char:EOLhyphen"/>dles and Landers, for <hi>Huſhing,</hi> and the moſt proper Way of taking up, and gathering of <hi>Gold,</hi> with many Uſe<g ref="char:EOLhyphen"/>ful and Beneficial Di<g ref="char:EOLhyphen"/>rections
+<pb n="118" facs="tcp:56004:66"/>and Inſtru<g ref="char:EOLhyphen"/>ctions, in and about the Mines, and Mi<g ref="char:EOLhyphen"/>neral Countries of <hi>England,</hi> and other Pla<g ref="char:EOLhyphen"/>ces, ſhall be fully ſet out and deſcribed. In the Interim, If this ſmall Book ſhould fall into the Hands of a<g ref="char:EOLhyphen"/>ny Detractors, who, through Ignorance, or Envy, ſhall exclaim againſt any thing
+<pb n="119" facs="tcp:56004:66"/>herein mentioned, or hereby intended; I ſhall only give ſuch Perſons this modeſt Reproof, <hi>Quis niſi mentis inops oblatum re<g ref="char:EOLhyphen"/>ſpuat aurum?</hi> and he may well be reckon<g ref="char:EOLhyphen"/>ed a weak Man, if not a Fool, that will cen<g ref="char:EOLhyphen"/>ſure, ſlight, or con<g ref="char:EOLhyphen"/>demn any thing, in which he never acqui<g ref="char:EOLhyphen"/>red ſufficient Know<g ref="char:EOLhyphen"/>ledge
+<pb n="120" facs="tcp:56004:67"/>to be a com<g ref="char:EOLhyphen"/>petent and fit Judge.</p>
+            <p>
+               <hi>Gentlemen,</hi>
+            </p>
+            <p>I would not have You, or any of You, think, or believe, that <hi>Gold,</hi> and <hi>Silver,</hi> or the Oars of any other Metals, lyes in the Earth, in ſuch Plenty, or in ſuch a Manner, as to diſcover them<g ref="char:EOLhyphen"/>ſelves to every vulgar
+<pb n="121" facs="tcp:56004:67"/>or unskillful Eye; however, it is certain, There is great Plenty, and many Rich Veyns to be Found in the <hi>Engliſh</hi> Territories; &amp; for what I have men<g ref="char:EOLhyphen"/>tioned before, con<g ref="char:EOLhyphen"/>cerning a <hi>Plate-Fleet</hi> coming Yearly into <hi>England,</hi> if Liberty, and fit Encouragement, be given, I will Under<g ref="char:EOLhyphen"/>take to Effect and Per<g ref="char:EOLhyphen"/>form
+<pb n="122" facs="tcp:56004:68"/>it. And, if any of You deſires fur<g ref="char:EOLhyphen"/>ther Information in this Affair, I am ready to Acquaint You with it, when You Com<g ref="char:EOLhyphen"/>mand me; and to Shew You <hi>how, where,</hi> and by <hi>what Ways</hi> and Means the ſame may be Effected; ſo that, if Liberty and En<g ref="char:EOLhyphen"/>couragement may be given; I doubt not, but
+<pb n="123" facs="tcp:56004:68"/>to have Five Hundred <hi>Miners</hi> at Work, in Two Years Time; by which, with ſome <hi>Ne<g ref="char:EOLhyphen"/>groes,</hi> and other Per<g ref="char:EOLhyphen"/>ſons, that I will Cauſe to be brought to them, in Two Years Time more, I queſti<g ref="char:EOLhyphen"/>on not, but to make the Mines flouriſh to a greater Degree, than I ſhall now Speak of.</p>
+            <pb n="124" facs="tcp:56004:69"/>
+            <p>To Conclude; All that I ſeek herein, is, That the <hi>King's moſt Excellent Majeſty,</hi> and this <hi>Auguſt Aſſembly</hi> of <hi>Parliament,</hi> would be Graciouſly Pleaſed, (if in their great Wiſ<g ref="char:EOLhyphen"/>dom, it may be thought fit,) to take away, and remove all thoſe Obſtructions, which hitherto have Ruined this Honou<g ref="char:EOLhyphen"/>rable
+<pb n="125" facs="tcp:56004:69"/>Enterprize; and that, for the Future, they would Settle and Confirm either the a<g ref="char:EOLhyphen"/>fore-going ARTI<g ref="char:EOLhyphen"/>CLES, or ſome o<g ref="char:EOLhyphen"/>ther Fundamental LAWS and CUSTOMS, for the Mines before<g ref="char:EOLhyphen"/>mentioned; whereby all Free-Born Sub<g ref="char:EOLhyphen"/>jects of the CROWN of <hi>England,</hi> may have Liberty, and full Pow<g ref="char:EOLhyphen"/>er,
+<pb n="126" facs="tcp:56004:70"/>of Uſing their En<g ref="char:EOLhyphen"/>deavours, to improve their own Intereſts, together with the Re<g ref="char:EOLhyphen"/>venues of the CROWN: Which is the moſt Humble Deſire, and Petition, of a <hi>Well-Wiſher</hi> to his KING, and Countrey,</p>
+            <closer>
+               <signed>Thom. Houghton.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56004:70"/>
+         </div>
+      </body>
+   </text>
+</TEI>
